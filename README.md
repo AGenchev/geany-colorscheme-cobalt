@@ -1,6 +1,6 @@
 # geany-colorscheme-cobalt
 
-Dark-blue color scheme for Geany
+Dark-blue color scheme for Geany with current line highlighting, and improved matching braces highlight
 
 ## Installation
 
