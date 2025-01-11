@@ -2,6 +2,7 @@
 
 Dark-blue color scheme for Geany with current line highlighting, improved matching braces highlight and 
 if whitespace display enabled - reduced contrast of the whitespace.
+TODO: change color for identifiers like 'object', 'array' to 'teal_blue'.
 
 ## Installation
 
