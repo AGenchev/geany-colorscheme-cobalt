@@ -14,5 +14,6 @@ For a global installation, a copy needs to be put into
 
 ![Screenshot of 'Cobalt' on Geany](cobalt-geany.png)
 
-P.S. If you like the code style on the screenshot, here is a guide to reformat automatically:
+P.S. If you like the code style on the screenshot, (it is Modified Horstmann style)
+here is a guide to reformat automatically:
 https://gist.github.com/AGenchev/a53ecf94ee7b0a910c10826e5d7417f9
